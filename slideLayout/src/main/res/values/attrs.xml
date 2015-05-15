@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlideLayout">
+        <attr name="viewpagerId" format="reference"/>
+        <attr name="dotsId" format="reference"/>
+        <attr name="autoPlay" format="boolean" />
+        <attr name="slide_interval" format="integer" />
+        <attr name="dotRadius" format="dimension" />
+        <attr name="onDotColor" format="color" />
+        <attr name="offDotColor" format="color" />
+        <attr name="strokeColor" format="color" />
+    </declare-styleable>
+</resources>

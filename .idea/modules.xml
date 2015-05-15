@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlideLayout.iml" filepath="$PROJECT_DIR$/SlideLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideLayoutSample.iml" filepath="$PROJECT_DIR$/SlideLayoutSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slideLayout/slideLayout.iml" filepath="$PROJECT_DIR$/slideLayout/slideLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slideLayoutDemo/slideLayoutDemo.iml" filepath="$PROJECT_DIR$/slideLayoutDemo/slideLayoutDemo.iml" />
+    </modules>
+  </component>
+</project>
+

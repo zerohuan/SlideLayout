@@ -45,3 +45,7 @@ You can set auto play or not, dot color and interval of sliding. You must contai
     </com.luckymore.yjh.slide.view.SlideLayout>
 
 # Usage in code
+After define a custom PagerAdapter, you can do like that
+
+###
+slideLayout.setViewPagerAdapter(pagerAdapter);

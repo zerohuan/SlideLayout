@@ -13,7 +13,8 @@ dependencies {
 # How to Use
 You can set auto play or not, dot color and interval of sliding. You must contain a ViewPager and a LinearLayout in SlideLayout and inject their id.
  
-###<com.luckymore.yjh.slide.view.SlideLayout
+```xml
+<com.luckymore.yjh.slide.view.SlideLayout
         xmlns:attrs="http://schemas.android.com/apk/res-auto"
         android:id="@+id/news_slide_bar"
         android:layout_width="match_parent"
